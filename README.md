@@ -1,7 +1,7 @@
 # Prework - Intro to iOS Development
-Submitted by: Bhagyesh Jethwani
-Intro to iOS development is an app that describes me and changes the background color of the home screen.
-Time spent: 2 Hours
+Submitted by: Bhagyesh Jethwani <br/>
+Intro to iOS development is an app that describes me and changes the background color of the home screen.<br/>
+Time spent: 2 Hours <br/>
 
 ## Required Features
 The following **required** functionality is completed:
